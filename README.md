@@ -6,11 +6,11 @@ Automation scripts for generating a world map viewer using Minecraft Overviewer.
 
 We are using a Windows 10 PC to generate the map viewer as it will have a larger drive capacity and faster CPU than a Raspberry Pi, although the `generate-map.ps1` PowerShell script could probably be ported to Node.js for similar functionality if you wanted it to run on a Pi.
 
-# Windows 10
-# Minecraft Java Edition
-# Tiny Task (https://www.tinytask.net/)
-# Minecraft overviewer 0.13 or higher (https://overviewer.org/downloads)
-# AWS CLI (https://s3.amazonaws.com/aws-cli/AWSCLI64PY3.msi)
+* Windows 10
+* Minecraft Java Edition
+* Tiny Task (https://www.tinytask.net/)
+* Minecraft overviewer 0.13 or higher (https://overviewer.org/downloads)
+* AWS CLI (https://s3.amazonaws.com/aws-cli/AWSCLI64PY3.msi)
 
 ## Installation
 
